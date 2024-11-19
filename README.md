@@ -17,3 +17,7 @@ Agar joriy branchning nomi boshqacha bo'lsa (masalan, main), u endi master deb n
 
 1 - git add .
 2 - git commit -m "second"
+
+<!--! moster ga yaniy bosh git hub ga ularni merch qilish -->
+
+bu narsa git habning o'zidan bo'ladi
