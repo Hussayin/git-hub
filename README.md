@@ -13,11 +13,16 @@ Agar joriy branchning nomi boshqacha bo'lsa (masalan, main), u endi master deb n
 
 6- git checkout -b husan - bu Git buyrug‘i bo‘lib, u yangi branch yaratish va shu branchga o‘tish uchun ishlatiladi.
 
-<!--! push 1ilish uchun -->
+<!--! push qilish uchun -->
 
 1 - git add .
 2 - git commit -m "second"
+3- git push -u origin husan
 
 <!--! moster ga yaniy bosh git hub ga ularni merch qilish -->
 
 bu narsa git habning o'zidan bo'ladi
+
+<!--! endi shahsiydan masterga otish kalitlari -->
+
+git switch master
