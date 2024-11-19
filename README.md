@@ -26,3 +26,8 @@ bu narsa git habning o'zidan bo'ladi
 <!--! endi shahsiydan masterga otish kalitlari -->
 
 git switch master
+
+<!--! ozgarishlarni masterga code larni o'tiramiz -->
+
+git pull - shu code orqaliy
+git checkout husan - orqaliy husan brenchida o'tamiz
